@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+*.local.json
+data/
+outputs/
+models/
+credentials/
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
